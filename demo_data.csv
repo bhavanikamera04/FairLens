@@ -1,0 +1,201 @@
+gender,age,education,credit_score,years_at_job,loan_approved
+M,50,PhD,764,26,1
+M,40,Master,736,16,1
+M,61,PhD,828,37,1
+F,51,PhD,792,28,1
+M,33,High School,572,7,0
+M,63,Master,856,38,1
+F,24,Bachelor,570,0,0
+F,46,PhD,789,23,1
+F,23,High School,548,0,0
+M,29,PhD,691,5,0
+F,61,Bachelor,708,38,1
+F,25,Bachelor,578,0,0
+F,55,PhD,848,30,1
+F,29,Master,672,4,1
+F,37,High School,616,11,0
+M,62,PhD,838,36,1
+M,45,High School,575,20,1
+M,38,Master,647,14,0
+M,63,High School,705,38,1
+F,55,PhD,807,29,1
+F,48,Bachelor,674,26,1
+M,24,Bachelor,520,0,0
+M,60,Bachelor,726,38,1
+F,34,Bachelor,620,12,0
+F,51,PhD,777,25,1
+M,34,PhD,701,10,1
+F,63,Bachelor,759,41,1
+F,41,PhD,734,17,1
+M,46,PhD,791,24,1
+M,34,Bachelor,572,10,0
+M,63,High School,708,39,1
+F,62,PhD,861,40,1
+F,33,PhD,703,10,0
+M,38,High School,598,16,0
+F,44,Bachelor,715,22,1
+F,47,Bachelor,666,22,1
+F,38,Master,677,12,0
+F,32,Bachelor,575,10,0
+M,37,Bachelor,677,13,1
+M,40,PhD,789,16,1
+F,28,PhD,691,6,0
+F,39,Master,645,15,1
+M,44,Bachelor,650,21,1
+F,47,PhD,794,25,1
+F,33,Bachelor,633,7,0
+M,62,High School,758,38,1
+M,45,PhD,778,23,1
+M,29,High School,530,4,0
+F,46,Bachelor,728,24,1
+F,39,Bachelor,660,15,0
+M,54,PhD,837,32,1
+F,29,PhD,651,5,0
+M,33,PhD,723,9,1
+F,51,Bachelor,692,25,1
+F,48,Master,787,22,1
+F,54,Master,788,29,1
+M,56,PhD,843,34,1
+F,51,PhD,847,25,1
+F,58,High School,663,32,1
+M,56,Master,789,34,1
+M,53,High School,701,31,1
+F,46,Bachelor,724,23,0
+F,53,PhD,811,30,1
+F,47,Bachelor,651,25,1
+F,60,PhD,892,37,1
+M,46,Bachelor,653,20,1
+M,57,High School,679,32,1
+F,37,Bachelor,598,12,0
+M,55,PhD,840,31,1
+M,43,Bachelor,672,20,1
+F,27,Bachelor,549,3,0
+M,26,PhD,697,0,1
+F,56,Master,784,31,1
+F,63,PhD,844,39,1
+M,49,Master,752,26,1
+M,44,Bachelor,628,19,1
+F,22,Bachelor,543,0,0
+M,37,High School,595,11,0
+M,33,Master,640,9,0
+M,35,High School,616,9,1
+F,26,Bachelor,605,3,0
+M,57,Master,767,31,1
+F,26,Bachelor,629,3,1
+F,40,Bachelor,657,18,0
+M,37,PhD,708,14,1
+F,48,PhD,823,23,1
+F,54,High School,680,30,0
+F,22,Master,592,0,0
+M,33,High School,609,10,1
+F,44,Master,750,21,1
+F,47,Bachelor,668,23,1
+F,32,Bachelor,588,7,0
+M,57,High School,644,31,0
+F,56,Master,765,33,1
+F,44,PhD,781,18,1
+M,44,High School,658,20,1
+M,41,High School,643,15,0
+M,33,PhD,725,11,1
+M,49,Master,772,24,1
+M,26,PhD,728,1,1
+M,57,High School,687,35,1
+M,60,Bachelor,713,37,1
+M,64,High School,744,41,0
+M,38,Bachelor,596,12,1
+M,48,Bachelor,705,22,1
+F,29,Master,659,4,1
+M,25,High School,510,0,1
+M,60,PhD,890,37,1
+M,24,Bachelor,564,0,0
+F,41,Bachelor,696,15,0
+M,24,High School,546,0,0
+M,46,PhD,785,24,1
+F,53,Bachelor,709,27,1
+F,42,Bachelor,684,17,1
+M,41,Master,711,18,1
+M,36,Bachelor,610,14,0
+F,37,Master,721,15,0
+F,37,PhD,756,12,1
+M,49,PhD,780,26,1
+F,49,Bachelor,736,23,0
+F,38,Master,712,16,1
+M,50,PhD,762,26,1
+F,26,Master,626,4,0
+F,26,Bachelor,562,4,0
+M,32,High School,594,9,1
+F,48,Master,738,22,1
+M,22,Master,580,0,0
+M,59,High School,647,33,1
+M,31,High School,578,7,1
+F,22,High School,510,0,0
+F,61,High School,686,38,1
+F,47,Master,718,23,1
+F,26,High School,573,2,0
+F,44,Master,748,18,1
+F,60,Master,787,35,0
+F,39,Bachelor,624,15,1
+F,59,PhD,891,34,1
+F,38,Master,644,12,1
+F,31,High School,521,6,0
+M,27,Bachelor,587,4,1
+M,32,Master,632,8,1
+F,61,PhD,808,39,1
+M,50,Master,731,27,1
+M,42,Master,664,19,1
+M,42,Bachelor,679,20,1
+F,55,Bachelor,723,32,1
+M,43,Bachelor,670,19,0
+M,47,High School,620,25,1
+M,36,High School,576,13,0
+F,23,PhD,640,0,1
+M,44,Master,687,21,1
+M,46,Master,707,23,1
+M,43,Master,754,18,1
+M,46,PhD,797,23,1
+M,57,Bachelor,770,34,1
+F,40,High School,591,18,0
+F,55,Bachelor,733,31,0
+M,54,High School,672,28,1
+M,25,PhD,718,1,1
+F,45,Master,729,23,1
+M,61,Master,790,38,1
+M,36,PhD,685,14,1
+F,23,Master,643,0,0
+M,26,High School,549,3,0
+M,54,PhD,789,32,1
+M,35,Bachelor,638,9,1
+M,34,PhD,672,12,1
+F,26,Bachelor,552,3,0
+M,23,PhD,698,1,1
+M,30,High School,574,6,1
+M,35,High School,599,13,1
+M,22,Master,599,0,0
+F,62,Master,773,37,1
+M,26,High School,562,2,0
+F,46,PhD,771,24,1
+F,61,Master,768,37,1
+M,36,Master,726,14,1
+M,23,Master,642,0,0
+M,27,Master,590,3,0
+F,36,Bachelor,608,14,0
+M,57,Master,763,35,1
+M,54,Master,787,31,1
+M,54,Bachelor,707,28,1
+F,45,High School,626,19,0
+M,25,Master,650,0,1
+M,57,Master,770,34,1
+M,32,PhD,733,9,0
+F,34,Bachelor,631,11,0
+M,64,PhD,895,39,1
+F,58,High School,711,35,0
+M,30,Bachelor,600,4,1
+M,32,Bachelor,582,10,1
+M,57,Bachelor,738,35,1
+F,61,Master,769,35,1
+M,31,High School,556,9,1
+M,46,Master,769,22,1
+M,48,Bachelor,673,24,1
+M,45,Master,699,20,1
+F,50,High School,662,26,0
+F,42,Bachelor,658,20,0
